@@ -1,4 +1,16 @@
+# 💫 Hi 👋, I'm Yashvir Bhardwaj
+**A passionate Data Scientist || Data Engineer || 
 
+Email Me 👉 ✉️ **yashvirbhardwaj90@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** AI-text detection angle
+- 🌱 **I’m currently learning:** Large Language Mode
+- 👯 **I’m looking to collaborate on:** Delivery Time & Distsnce prediction Model
+- 🤔 **I’m looking for help with:** Delivery Time & Distsnce prediction Model
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** yashvirbhardwaj@10gmail.com
+- 😄 **Pronouns:**Yashvir
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Yashvir Bhardwaj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Yashvir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yashvir Bhardwaj) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Yashvir Bhardwaj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashvirbhardwaj90@gmail.com) 
 
