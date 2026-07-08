@@ -18,11 +18,6 @@ I'm always up for collaborating on interesting data problems — feel free to re
 - **AI-text detection:** exploring approaches to detect AI-generated text
 - **Delivery prediction:** open to collaborating on delivery time & distance prediction models
 
-## 💼 Featured Projects
-- **[Netflix Customer Churn Prediction](https://github.com/Yashvir10/project1/tree/main/NETFLIX%20PROJECT)** — End-to-end churn prediction system (EDA → preprocessing → training → deployment), served via FastAPI with a Streamlit front-end for real-time predictions.
-- **[Credit Card Risk Management](https://github.com/Yashvir10/credit-risk_ml)** — Classification models to predict customer default risk, using SMOTE to handle class imbalance and improve minority-class recall.
-- **[Stock Price Prediction](https://github.com/Yashvir10/project1/tree/main/netflixcollegeproject/stock)** — Time-series forecasting of stock prices using engineered lag and trend features, validated with RMSE and R².
-
 ## 🛠️ Tech I work with
 **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 
