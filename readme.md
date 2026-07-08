@@ -1,5 +1,5 @@
 # Hi, I'm Yashvir 👋
-I'm a data scientist and ML engineer based in the Chandigarh , Punjab Area. I hold a  Bachelor in Computer Science from the University of HPTU, where I built supervised learning pipelines for large seismic datasets. Today I work at the intersection of machine learning, GenAI, and scientific computing, turning messy real-world data into models, tools, and automated workflows.
+I'm a data scientist and NLP engineer based in the Chandigarh , Punjab Area. I hold a  Bachelor in Computer Science from the University of HPTU, where I built supervised learning pipelines for large seismic datasets. Today I work at the intersection of machine learning, GenAI, and scientific computing, turning messy real-world data into models, tools, and automated workflows.
  
 I'm always up for collaborating on interesting data problems — feel free to reach out.
 - 🌱 **I’m currently learning:** AI Agents
