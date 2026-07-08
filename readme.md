@@ -1,7 +1,5 @@
 # Hi, I'm Yashvir 👋
-
-I'm a **Data Scientist** and **Machine Learning / NLP Engineer**, with a B.Tech in Computer Science Engineering. I build end-to-end ML, deep learning, and NLP solutions — from raw data to deployed, production-ready APIs.
-My work spans classical ML, deep learning, and NLP with transformer-based models, and I'm comfortable owning the full lifecycle: data exploration, feature engineering, model training and evaluation, and deployment behind a REST API with FastAPI. I've applied this across churn prediction, credit risk classification, and time-series forecasting, and I'm currently deepening my focus on NLP, transformers, and LLMs.
+I'm a data scientist and ML engineer based in the Chandigarh , Punjab Area. I hold a  Bachelor in Computer Science from the University of HPTU, where I built supervised learning pipelines for large seismic datasets. Today I work at the intersection of machine learning, GenAI, and scientific computing, turning messy real-world data into models, tools, and automated workflows.
  
 I'm always up for collaborating on interesting data problems — feel free to reach out.
 - 🌱 **I’m currently learning:** AI Agents
@@ -13,10 +11,11 @@ I'm always up for collaborating on interesting data problems — feel free to re
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 - 
 ## 🔭 What I'm working on
+
+- **Machine learning & deep learning:** classical ML and neural networks (CNNs, feed-forward) for prediction and classification on tabular, image, and signal data
 - **NLP & Transformers:** working with transformer-based models for text and language tasks
 - **LLMs:** exploring Large Language Models and their applications
-- **AI-text detection:** exploring approaches to detect AI-generated text
-- **Delivery prediction:** open to collaborating on delivery time & distance prediction models
+- **GenAI & LLM workflows:** prompt engineering, RAG, semantic search, NER, and fine-tuning with the OpenAI and Anthropic APIs
 
 ## 🛠️ Tech I work with
 **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
