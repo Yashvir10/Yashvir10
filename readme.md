@@ -32,7 +32,7 @@ I'm always up for collaborating on interesting data problems — feel free to re
 ## 📫 Get in touch
 - 👔 [LinkedIn](https://linkedin.com/in/yashvir-bhardwaj)
 - 💻 [GitHub](https://github.com/Yashvir10)
-- 📧 yashvirbhardwaj90@gmail.com
+- 📧 yashvirbhardwaj10@gmail.com
 
 - <!-- Snake Game Repo View -->
 
