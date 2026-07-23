@@ -8,7 +8,6 @@ I'm always up for collaborating on interesting data problems — feel free to re
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** yashvirbhardwaj@10gmail.com
 - 😄 **Pronouns:**Yashvir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 - 
 ## 🔭 What I'm working on
 
