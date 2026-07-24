@@ -7,8 +7,7 @@ I'm always up for collaborating on interesting data problems — feel free to re
 - 🤔 **I’m looking for help with:** Delivery Time & Distsnce prediction Model
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** yashvirbhardwaj@10gmail.com
-- 😄 **Pronouns:**Yashvir
-- 
+
 ## 🔭 What I'm working on
 
 - **Machine learning & deep learning:** classical ML and neural networks (CNNs, feed-forward) for prediction and classification on tabular, image, and signal data
